@@ -1,4 +1,4 @@
-# users-api
+# users-api-update
 This service is written in Java with SpringBoot. It provides simple API to retrieve user data.
 
 - `GET /users` - list all users
